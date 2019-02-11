@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mavenprojbuild</groupId>
-  <artifactId>demo_selenium</artifactId>
+  <artifactId>mvn_project</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>demo_selenium</name>
+  <name>mvn_project</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
